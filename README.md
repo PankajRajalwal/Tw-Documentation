@@ -8,12 +8,12 @@ This repository contains student-friendly notes, explanations, commands, and exa
 
 | No. | Topic | Documentation |
 |---|---|---|
-| 1 | LaTeX | [View LaTeX Notes](latex.md) |
-| 2 | Beamer | [View Beamer Notes](beamer.md) |
-| 3 | Doxygen | [View Doxygen Notes](doxyge.md) |
-| 4 | Google Docs | [View Google Docs Notes](googledocs.md) |
-| 5 | Git | [View Git Notes](git.md) |
-| 6 | GitHub | [View GitHub Notes](github.md) |
+| 1 | LaTeX | [View LaTeX Notes](docs/latex.md) |
+| 2 | Beamer | [View Beamer Notes](docs/beamer.md) |
+| 3 | Doxygen | [View Doxygen Notes](docs/doxyge.md) |
+| 4 | Google Docs | [View Google Docs Notes](docs/googledocs.md) |
+| 5 | Git | [View Git Notes](docs/git.md) |
+| 6 | GitHub | [View GitHub Notes](docs/github.md) |
 
 ## Repository Structure
 
